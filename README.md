@@ -1,4 +1,5 @@
-MyFirstClientMaven
+MyFirstClient Tutorial for simple use with Maven
+https://developers.diem.com/main/docs/tutorial-my-first-client
 
 Optimized for Intellij Idea
 If using with other IDE you need to change the Scope of the following to maven dependencies to compile instead of runtime.
