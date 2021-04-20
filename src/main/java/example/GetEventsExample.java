@@ -7,7 +7,6 @@ import com.diem.jsonrpc.JsonRpc.Event;
 
 import java.security.SecureRandom;
 import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * GetEventsExample demonstrates how to subscribe to a specific events stream base on events key
